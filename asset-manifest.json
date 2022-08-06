@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "//Little-Prince-23.github.io/first-react-app/static/css/main.c3626bf7.css",
+    "main.js": "//Little-Prince-23.github.io/first-react-app/static/js/main.f352bdd1.js",
+    "index.html": "//Little-Prince-23.github.io/first-react-app/index.html",
+    "main.c3626bf7.css.map": "//Little-Prince-23.github.io/first-react-app/static/css/main.c3626bf7.css.map",
+    "main.f352bdd1.js.map": "//Little-Prince-23.github.io/first-react-app/static/js/main.f352bdd1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c3626bf7.css",
+    "static/js/main.f352bdd1.js"
+  ]
+}
